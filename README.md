@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ilikerpg
+- 👋 Hi, I’m @Rpgsan
 - 👀 I’m interested in ...making optimized running codes
 - 🌱 I’m currently learning ...compuiter science engineering
 - 💞️ I’m looking to collaborate on ... game development
